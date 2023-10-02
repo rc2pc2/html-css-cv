@@ -1,0 +1,24 @@
+header{
+    text-align: center;
+    background-color: #ececec;
+}
+
+hr {
+    border: 1px solid goldenrod;
+}
+
+.cv-photo{
+    height: 100px;
+}
+
+.border-bottom-goldenrod{
+    border-bottom: 2px solid goldenrod;
+}
+
+.text-goldenrod{
+    color: #ce8a07;
+}
+
+.text-italic{
+    font-style: italic;
+}
